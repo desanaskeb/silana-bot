@@ -9,22 +9,22 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['967781994494', 'ʏᴀᴛᴏ sᴀᴍᴀ', true],
+['967736249487', 'ᴀɴᴀs ᴍᴏᴅs', true],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
- packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
- stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ nomerbot: '967776315086',
+ pairingNumber: '967781994494',
+ nameown: 'ᴀɴᴀs ᴍᴏᴅs',
+ nomerown: '967781994494',
+ packname: 'ʏᴀᴛᴏ ʙᴏᴛ ',
+ author: 'ᴀɴᴀs ᴍᴏᴅs',
+ namebot: 'ʏᴀᴛᴏ',
+ wm: ''-'_꩜ 𝚈𝚊𝚝𝚘 𝙱𝚘𝚝 ꩜_'-'',
+ stickpack: '𝙰𝚗𝚊𝚜 𝙼𝚘𝚍𝚜',
+ stickauth: 'ʏᴀᴛᴏ ʙᴏᴛ '
 }
 
 // Thumbnail 
@@ -46,9 +46,9 @@ global.media = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://instagram.com/Alkaser_0_0',
+ sgh:  'https://t.me/Alkaser_0_0',
+ sgc: 'https://whatsapp.com/channel/0029VaEvarZ47XeGMKmNbs3y'
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
