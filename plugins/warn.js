@@ -31,7 +31,7 @@ let handler = async (m, { conn, text, args, usedPrefix, command, participants })
 
 handler.help = ['warn @tag'];
 handler.tags = ['owner'];
-handler.command = /^(unwarn|warn)$/i;
+handler.command = /^(الغاءانذار|انذار)$/i;
 handler.admin = true;
 handler.group = true;
 
