@@ -702,10 +702,10 @@ let msg = {
       text: msg, 
       contextInfo: {
       externalAdReply: {
-      title: 'ʏᴀᴛᴏ ʙᴏᴛ ᴄᴀʜᴛ ✦',
+      title: '✖️ Y O U R  N O T  A C C E S S',
       body: '',
       thumbnailUrl: media.akses,
-      sourceUrl: https://whatsapp.com/channel/0029VaEvarZ47XeGMKmNbs3y,
+      sourceUrl: url.sgc,
       mediaType: 1,
       renderLargerThumbnail: true
       }}}, { quoted: m})
